@@ -1,5 +1,6 @@
 # Topic: Use Yolov5 to distinguish between ripe and undercooked tomatoes
-By learning unripe tomatoes and ripe tomatoes through Yolov5, tomato quality control and harvest timing can be determined. In the future, I would like to use an automated system for agricultural produ
+
+My parents run a tomato farm, and distinguishing between ripe and unripe tomatoes during harvest has always been a time-consuming and costly task. Recently, I learned about a deep learning technology called YOLOv5, and I thought it would be great to apply this technology to the farm to automate the process of identifying ripe and unripe tomatoes. After training the model, I was able to develop a system that accurately distinguishes between ripe and unripe tomatoes. This has significantly reduced labor costs and saved a lot of time. Moving forward, I hope to use this technology to contribute to advancements in agriculture in even more ways.
 
 ![image](https://github.com/user-attachments/assets/4394b1e6-37b9-4993-afda-aade3cdf9ac2)
 
