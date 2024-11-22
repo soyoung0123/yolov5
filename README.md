@@ -1,23 +1,23 @@
-# 주제 : yolov5을 활용한 익은 토마토와 안 익은 토마토 구별
-
+# Topic: Use Yolov5 to distinguish between ripe and undercooked tomatoes
+By learning unripe tomatoes and ripe tomatoes through Yolov5, tomato quality control and harvest timing can be determined. In the future, I would like to use an automated system for agricultural produ
 
 ![image](https://github.com/user-attachments/assets/4394b1e6-37b9-4993-afda-aade3cdf9ac2)
 
-# 동영상 사용 방법 
+# How to use a video
 
-인공 지능 비디오 학습을 위한 비디오를 다운로드했습니다. 
+I downloaded a video for learning artificial intelligence videos.
 
 https://www.youtube.com/shorts/FkOLr3YwJyk
 
 https://www.youtube.com/shorts/zDrgFNBtkPQ
 
-YOLOv5에서 이미지를 학습하기 위해 Clipchamp를 사용하여 수정했습니다.
+Images of YOLOv5 were learned using Clipchamp.
 
 ![image](https://github.com/user-attachments/assets/ac6a1042-a4ca-4aa3-9893-a80e306c3570)
 
-# 학습 데이터 추출
+# Extraction of Learning Data
 
-DarkLabel을 사용하여 익은 토마토와 안 익은 토마토를 구분 할 수 있도록 드래그 해줍니다.
+Use DarkLabel to drag to distinguish ripe and unripe tomatoes.
 
 ![image](https://github.com/user-attachments/assets/dcf626cd-77b1-476b-9b92-b0526c78543f)
 
@@ -47,7 +47,7 @@ Learn with Python using Google Colaboratory.
 ![image](https://github.com/user-attachments/assets/9de3dd18-7f5d-432e-b525-4eed179960b8)
 ![image](https://github.com/user-attachments/assets/c8354a65-c655-41d2-b3a1-dea2a8fe4848)
 
-# yolov5 학습검증
+# Yolov5 Learning Verification
 
 confusion_matrix
 
@@ -73,10 +73,14 @@ val_batch
 
 ![image](https://github.com/user-attachments/assets/78eced85-82c9-44bf-868c-72951aca7d0d)
 
-# 잭슨 나노 비디오
+# Jetson Nano Video
+
+https://github.com/user-attachments/assets/2ffac3d5-11b9-47da-9a5d-5f5877981da1
 
 https://github.com/user-attachments/assets/8f5db844-76d2-4c2d-8374-37cacc73d3fb
 
 https://github.com/user-attachments/assets/5921893c-70e4-41a9-ac81-02f752acbe7a
+
+https://github.com/user-attachments/assets/8e5710d2-8cdb-42c6-9d94-4bfe6beae614
 
 
